@@ -1,0 +1,25 @@
+{
+  "updated_at": "2025-11-01",
+  "players": [
+    { "rank": 1, "name": "Carlsen, Magnus",        "fed": "NOR", "rating": 2839, "born": 1990 },
+    { "rank": 2, "name": "Nakamura, Hikaru",      "fed": "USA", "rating": 2813, "born": 1987 },
+    { "rank": 3, "name": "Caruana, Fabiano",      "fed": "USA", "rating": 2795, "born": 1992 },
+    { "rank": 4, "name": "Keymer, Vincent",       "fed": "GER", "rating": 2773, "born": 2004 },
+    { "rank": 5, "name": "Giri, Anish",           "fed": "NED", "rating": 2769, "born": 1994 },
+    { "rank": 6, "name": "Erigaisi, Arjun",       "fed": "IND", "rating": 2769, "born": 2003 },
+    { "rank": 7, "name": "Praggnanandhaa R",      "fed": "IND", "rating": 2768, "born": 2005 },
+    { "rank": 8, "name": "So, Wesley",            "fed": "USA", "rating": 2764, "born": 1993 },
+    { "rank": 9, "name": "Gukesh D",              "fed": "IND", "rating": 2763, "born": 2006 },
+    { "rank": 10, "name": "Firouzja, Alireza",    "fed": "FRA", "rating": 2762, "born": 2003 },
+    { "rank": 11, "name": "Wei, Yi",              "fed": "CHN", "rating": 2753, "born": 1999 },
+    { "rank": 12, "name": "Abdusattorov, Nodirbek","fed": "UZB","rating": 2750, "born": 2004 },
+    { "rank": 13, "name": "Anand, Viswanathan",   "fed": "IND", "rating": 2743, "born": 1969 },
+    { "rank": 14, "name": "Mamedyarov, Shakhriyar","fed": "AZE","rating": 2742, "born": 1985 },
+    { "rank": 15, "name": "Rapport, Richard",     "fed": "ROU", "rating": 2740, "born": 1996 },
+    { "rank": 16, "name": "Vachier-Lagrave, Maxime","fed": "FRA","rating": 2740, "born": 1990 },
+    { "rank": 17, "name": "Dominguez Perez, Leinier","fed": "USA","rating": 2738, "born": 1983 },
+    { "rank": 18, "name": "Ding, Liren",          "fed": "CHN", "rating": 2738, "born": 1992 },
+    { "rank": 19, "name": "Nepomniachtchi, Ian",  "fed": "RUS", "rating": 2732, "born": 1990 },
+    { "rank": 20, "name": "Niemann, Hans Moke",   "fed": "USA", "rating": 2729, "born": 2003 }
+  ]
+}
