@@ -1,47 +1,46 @@
-{
-  "data": [
-    {
-      "id": 1,
-      "title": "Andrey Esipenko BLUNDERED the rook! Wei Yi moves on to World Cup Final!",
-      "excerpt": "The dramatic blunder came in a sudden death tiebreak game, sending the Chinese GM Wei Yi to his first major final.",
-      "is_pinned": true,
-      "thumbnail_url": "/images/wei-yi-esipenko-win.png",
-      "publish_date": "2025-11-23T10:00:00Z",
-      "comment_count": 350,
-      "associated_players": [
-        { "id": 101, "name": "Wei Yi", "title": "GM" },
-        { "id": 102, "name": "Andrey Esipenko", "title": "GM" }
-      ],
-      "associated_event": { "id": 201, "name": "FIDE World Cup" }
-    },
-    {
-      "id": 2,
-      "title": "World Cup Final: The Battle Begins! Who Lands the First Blow in Game One?",
-      "excerpt": "The two finalists, Wei Yi and Javokhir Sindarov, prepare to face off in the first long-awaited classical game.",
-      "is_pinned": false,
-      "thumbnail_url": "/images/final-clash-prediction.png",
-      "publish_date": "2025-11-24T08:30:00Z",
-      "comment_count": 180,
-      "associated_players": [
-        { "id": 101, "name": "Wei Yi", "title": "GM" },
-        { "id": 103, "name": "Javokhir Sindarov", "title": "GM" }
-      ],
-      "associated_event": { "id": 201, "name": "FIDE World Cup Final" }
-    },
-    {
-      "id": 3,
-      "title": "Wei Yi: \"It's One of My Biggest Goals in My Chess Career.\"",
-      "excerpt": "The Chinese Grandmaster discusses the immense pressure and significance of earning a Candidates spot.",
-      "is_pinned": false,
-      "thumbnail_url": "/images/wei-yi-interview.png",
-      "publish_date": "2025-11-24T06:00:00Z",
-      "comment_count": 95,
-      "associated_players": [
-        { "id": 101, "name": "Wei Yi", "title": "GM" }
-      ],
-      "associated_event": { "id": 201, "name": "FIDE World Cup" }
-    },
-    {
+[
+  {
+    "id": 1,
+    "title": "Andrey Esipenko BLUNDERED the rook! Wei Yi moves on to World Cup Final!",
+    "excerpt": "The dramatic blunder came in a sudden death tiebreak game, sending the Chinese GM Wei Yi to his first major final.",
+    "is_pinned": true,
+    "thumbnail_url": "/images/wei-yi-esipenko-win.png",
+    "publish_date": "2025-11-23T10:00:00Z",
+    "comment_count": 350,
+    "associated_players": [
+      { "id": 101, "name": "Wei Yi", "title": "GM" },
+      { "id": 102, "name": "Andrey Esipenko", "title": "GM" }
+    ],
+    "associated_event": { "id": 201, "name": "FIDE World Cup" }
+  },
+  {
+    "id": 2,
+    "title": "World Cup Final: The Battle Begins! Who Lands the First Blow in Game One?",
+    "excerpt": "The two finalists, Wei Yi and Javokhir Sindarov, prepare to face off in the first long-awaited classical game.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/final-clash-prediction.png",
+    "publish_date": "2025-11-24T08:30:00Z",
+    "comment_count": 180,
+    "associated_players": [
+      { "id": 101, "name": "Wei Yi", "title": "GM" },
+      { "id": 103, "name": "Javokhir Sindarov", "title": "GM" }
+    ],
+    "associated_event": { "id": 201, "name": "FIDE World Cup Final" }
+  },
+  {
+    "id": 3,
+    "title": "Wei Yi: \"It's One of My Biggest Goals in My Chess Career.\"",
+    "excerpt": "The Chinese Grandmaster discusses the immense pressure and significance of earning a Candidates spot.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/wei-yi-interview.png",
+    "publish_date": "2025-11-24T06:00:00Z",
+    "comment_count": 95,
+    "associated_players": [
+      { "id": 101, "name": "Wei Yi", "title": "GM" }
+    ],
+    "associated_event": { "id": 201, "name": "FIDE World Cup" }
+  },
+  {
     "id": 4,
     "title": "SLU Defeats UTD, Repeats as Collegiate Chess League Champions",
     "excerpt": "Saint Louis University clinched back-to-back Collegiate Chess League titles with a decisive victory over the University of Texas at Dallas.",
@@ -51,8 +50,8 @@
     "comment_count": 210,
     "associated_players": [],
     "associated_event": { "id": 301, "name": "Collegiate Chess League Finals" }
-    },
-    {
+  },
+  {
     "id": 5,
     "title": "Esipenko Hits Back To Lead Candidates Battle",
     "excerpt": "GM Andrey Esipenko struck back with a crucial win, reclaiming the lead in the Candidates qualification standings.",
@@ -61,11 +60,11 @@
     "publish_date": "2025-11-24T12:00:00Z",
     "comment_count": 420,
     "associated_players": [
-        { "id": 102, "name": "Andrey Esipenko", "title": "GM" }
+      { "id": 102, "name": "Andrey Esipenko", "title": "GM" }
     ],
     "associated_event": { "id": 401, "name": "FIDE Candidates Cycle" }
-    },
-    {
+  },
+  {
     "id": 6,
     "title": "Gurel Cements Status As No. 1 Junior Bullet Brawler",
     "excerpt": "Turkish prodigy Deniz Gurel reaffirmed his dominance in bullet chess with another string of blisteringly fast wins.",
@@ -74,11 +73,11 @@
     "publish_date": "2025-11-24T12:35:00Z",
     "comment_count": 125,
     "associated_players": [
-        { "id": 301, "name": "Deniz Gurel", "title": "FM" }
+      { "id": 301, "name": "Deniz Gurel", "title": "GM" }
     ],
     "associated_event": { "id": 501, "name": "Online Bullet Championship" }
-    },
-    {
+  },
+  {
     "id": 7,
     "title": "Duda, Nakamura, Terry Win 3-0 Thursday",
     "excerpt": "A dominant Thursday saw Duda, Nakamura, and Terry each sweep their matches.",
@@ -87,13 +86,13 @@
     "publish_date": "2025-11-24T13:15:00Z",
     "comment_count": 160,
     "associated_players": [
-        { "id": 401, "name": "Jan-Krzysztof Duda", "title": "GM" },
-        { "id": 104, "name": "Hikaru Nakamura", "title": "GM" },
-        { "id": 402, "name": "Christopher Yoo Terry", "title": "GM" }
+      { "id": 401, "name": "Jan-Krzysztof Duda", "title": "GM" },
+      { "id": 104, "name": "Hikaru Nakamura", "title": "GM" },
+      { "id": 402, "name": "Christopher Yoo Terry", "title": "GM" }
     ],
     "associated_event": { "id": 601, "name": "Weekly Rapid Arena" }
-    },
-    {
+  },
+  {
     "id": 8,
     "title": "Firouzja Eliminates Nepomniachtchi, Advances To Semifinal Vs. Nakamura",
     "excerpt": "Alireza Firouzja knocked out Ian Nepomniachtchi in a fierce tiebreak to set up a blockbuster semifinal against Nakamura.",
@@ -102,21 +101,66 @@
     "publish_date": "2025-11-24T14:00:00Z",
     "comment_count": 380,
     "associated_players": [
-        { "id": 105, "name": "Alireza Firouzja", "title": "GM" },
-        { "id": 106, "name": "Ian Nepomniachtchi", "title": "GM" },
-        { "id": 104, "name": "Hikaru Nakamura", "title": "GM" }
+      { "id": 105, "name": "Alireza Firouzja", "title": "GM" },
+      { "id": 106, "name": "Ian Nepomniachtchi", "title": "GM" },
+      { "id": 104, "name": "Hikaru Nakamura", "title": "GM" }
     ],
-  "associated_event": { "id": 201, "name": "FIDE World Cup" }
-}
-
-  ],
-  "meta": {
-  "pagination": {
-    "page": 1,
-    "pageSize": 3,
-    "pageCount": 3,
-    "total": 8
+    "associated_event": { "id": 201, "name": "FIDE World Cup" }
+  },
+  {
+    "id": 9,
+    "title": "Final Round Drama: Both First-Leg Games End in Draws, Decisive Day Awaits",
+    "excerpt": "The tension in the final round reached a new peak as both first-leg games ended in balanced draws, setting up a thrilling winner-take-all showdown the following day.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/news_temp1.png",
+    "publish_date": "2025-11-24T23:00:00Z",
+    "comment_count": 184,
+    "associated_players": [],
+    "associated_event": null
+  },
+  {
+    "id": 10,
+    "title": "Yakubboev Resigns; Esipenko Stands One Step Away From Candidates Qualification",
+    "excerpt": "In a dramatic turn of events, Nodirbek Yakubboev resigned in a critical position, bringing Andrey Esipenko within touching distance of a coveted Candidates spot.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/news_temp2.png",
+    "publish_date": "2025-11-24T23:00:00Z",
+    "comment_count": 233,
+    "associated_players": [],
+    "associated_event": null
+  },
+  {
+    "id": 11,
+    "title": "Historic Moment Looms: Can Wei Yi Become the First Chinese Champion in the World Cup?",
+    "excerpt": "All eyes turn to Wei Yi as he approaches a potentially historic milestone—no Chinese player has ever lifted the World Cup trophy, and tomorrow's result could change that narrative forever.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/news_temp3.jpg",
+    "publish_date": "2025-11-24T23:00:00Z",
+    "comment_count": 276,
+    "associated_players": [],
+    "associated_event": null
+  },
+  {
+    "id": 12,
+    "title": "Lazavik Crushes Hans; Sets Up Next-Round Clash With Magnus",
+    "excerpt": "Nikita Lazavik delivered a commanding victory over Hans Niemann, earning a high-stakes next-round matchup against Magnus Carlsen that has fans buzzing with anticipation.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/news_temp4.png",
+    "publish_date": "2025-11-24T23:00:00Z",
+    "comment_count": 198,
+    "associated_players": [],
+    "associated_event": null
+  },
+  {
+    "id": 13,
+    "title": "Speed Chess Championship Semifinals Set: Lazavik, Magnus, Alireza, Hikaru to Battle in London",
+    "excerpt": "The final four of the Speed Chess Championship are confirmed. In London, Lazavik, Magnus Carlsen, Alireza Firouzja, and Hikaru Nakamura will face off in a star-studded semifinal lineup.",
+    "is_pinned": false,
+    "thumbnail_url": "/images/news_temp5.png",
+    "publish_date": "2025-11-24T23:00:00Z",
+    "comment_count": 321,
+    "associated_players": [],
+    "associated_event": null
   }
-}
+]
 
-}
