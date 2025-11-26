@@ -49,7 +49,7 @@ export default async function PlayerPage({ params }: PlayerPageProps) {
   if (!player) return <p>Player not found.</p>;
 
   return (
-    <main className="p-8 max-w-[90rem] mx-auto">
+    <main className="p-8 max-w-[95rem] mx-auto">
       {/* ------------------ Tabs ------------------ */}
       <div className="flex gap-6 mb-6 text-lg">
         {tabs.map((t) => {
