@@ -43,7 +43,21 @@ export default function Home() {
 
   return (
     <main className="p-8 max-w-7xl mx-auto">
-      <h1 className="text-5xl font-bold mb-6">ChessDaily</h1>
+      {/* 顶部标题 + 导航按钮 */}
+<div className="flex items-center justify-between mb-6">
+  <h1 className="text-5xl font-bold">ChessDaily</h1>
+
+  <div className="flex items-center gap-4">
+    {/* Players 按钮 */}
+    <Link
+      href="/players"
+      className="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded text-sm"
+    >
+      Players
+    </Link>
+  </div>
+</div>
+
 
       <p className="text-lg text-gray-700 mb-8">
         Daily chess news, tournament highlights, and global player updates.

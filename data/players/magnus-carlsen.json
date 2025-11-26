@@ -1,0 +1,34 @@
+{
+  "name": "Magnus Carlsen",
+  "image": "/players/magnus-carlsen.webp",
+
+  "imageCredit": {
+    "authorName": "Autopilot",
+    "authorUrl": "https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_(2012).jpg",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modified": true
+  },
+
+  "achievements": {
+    "WCC": [2013, 2014, 2016, 2018, 2021],
+    "WorldRapid": [2014, 2015, 2019, 2022, 2023],
+    "WorldBlitz": [
+      2009,
+      2016,
+      2019,
+      2020,
+      2021,
+      2022,
+      { "year": 2024, "shared": true },
+      2025
+    ],
+    "WorldCup": [2023],
+    "TataSteel": [2008, 2010, 2013, 2015, 2016, 2018, 2019, 2022],
+    "NorwayChess": [2016, 2019, 2020, 2021, 2022, 2024, 2025],
+    "Sinquefield": [
+      2013,
+      { "year": 2018, "shared": true }
+    ]
+  }
+}
